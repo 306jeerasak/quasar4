@@ -61,7 +61,7 @@ export default {
   setup () {
     const $q = useQuasar()
 
-    const id = ref("16...")
+    const id = ref("6604101316")
     const name = ref("จีรศักดิ์")
     const surname = ref("ชำนิกุล")
     const age = ref(null)
